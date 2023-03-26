@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **riajulalam5@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/18S4AyHN8rtpQVD0ujjugPbq_t1PsmwBo/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1W5xqf3TM9JuzUUq3_DgZPdC0r5bEt3DP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
