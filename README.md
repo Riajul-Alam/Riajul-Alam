@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riajul Alam</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Riajul Alam!)](https://git.io/typing-svg)
 <h3 align="center">A passionate Competitive Programmer and web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riajul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="riajul-alam" /> </p>
