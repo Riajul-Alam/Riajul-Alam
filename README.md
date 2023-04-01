@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Riajul Alam</h1>
 <h3 align="center">A passionate Competitive Programmer and web developer.</h3>
-
+<a href="https://codeforces.com/profile/Riajul_Alam">
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/Riajul_Alam"/>
+</a>
+<a href="https://leetcode.com/Riajul_Alam/">
+    <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/Riajul_Alam"/>
+</a>
+<a href="https://www.codechef.com/users/riaj132">
+    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/riaj132"/>
+</a>
+<a href="https://atcoder.jp/users/Riajul_Alam">
+    <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/Riajul_Alam"/>
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riajul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="riajul-alam" /> </p>
 
 - 🌱 I’m currently learning **C Sharp and Dotnet framework**
