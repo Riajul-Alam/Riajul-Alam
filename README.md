@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **riajulalam5@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/117dnX5zz8HQpPFASG5R_dwIgJ4cBVQF0/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/10inShYfxRYPDhhpsDrQQiyNFu3tl8Wid/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
