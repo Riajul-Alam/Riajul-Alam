@@ -14,7 +14,7 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riajul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="riajul-alam" /> </p>
 
-- 🌱 I’m currently learning **C Sharp and Dotnet framework**
+- 🌱 I’m currently learning **TypeScript, Angular, Ng-Rx**
 
 - 💬 Ask me about **Algorithms, Data Structures, and Competitive Programming**
 
